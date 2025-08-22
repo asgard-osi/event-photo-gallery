@@ -72,7 +72,7 @@ $EXTRA_FOLDERS = [
     'Ceremony',
     'Party',
 ];
-
+```
 ---
 
 ## 🚀 Installation
