@@ -236,7 +236,7 @@ require_once __DIR__ . '/config.php';
   </script>
 
   <footer>
-    <p>Christin & Michael Osing &copy; 2025 <a target="_blank" href="impressum.html">Impressum</a></p>
+    <p> &copy; 2025 <a target="_blank" href="impressum.html">Impressum</a></p>
   </footer>
 </body>
 </html>
